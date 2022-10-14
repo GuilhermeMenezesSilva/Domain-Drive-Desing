@@ -30,6 +30,6 @@ public class MediaAluno {
         total = n1+n2+n3+n4;
         media = total/4;
 
-        System.out.println(nome+" a sua media é "+media);
+        System.out.println(nome +" a sua media é "+ media);
     }
 }
