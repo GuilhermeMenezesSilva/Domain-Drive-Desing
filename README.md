@@ -1,2 +1,2 @@
 # Domain-Drive-Desing
-Programas desenvolvidos utilizando a linguagem JAVA na fiap
+Programas desenvolvidos utilizando a linguagem JAVA
